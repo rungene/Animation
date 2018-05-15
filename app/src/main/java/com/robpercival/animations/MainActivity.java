@@ -30,9 +30,10 @@ public class MainActivity extends ActionBarActivity {
         homer.animate().alpha(0f).setDuration(2000);
         bart.animate().alpha(1).setDuration(2000);
         bart.bringToFront();
+
+
+
         
-
-
 
 
     }
